@@ -32,6 +32,23 @@ This is a responsive single-page application (SPA) demonstrating the use of **Re
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 🚀 Getting Started
 
 To run the project locally, follow these steps:
@@ -71,10 +88,8 @@ study-notation-router-project/
 │   └── main.jsx
 ├── package.json
 └── README.md
-🧑 Author
-Amarjeet Kumar
-🎓 CSE Final Year Student, Chandigarh University
-🔗 Linktree
+
+
 
 📄 License
 This project is open-source and available under the MIT License.
@@ -86,11 +101,3 @@ Inspired by modern web layouts with reusable components.
 
 🤝 Contributions
 Contributions are welcome! Feel free to fork the repository and open a pull request with improvements.
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like to enhance this project with form validation, authentication, or dynamic route parameters.
-
-2/2
